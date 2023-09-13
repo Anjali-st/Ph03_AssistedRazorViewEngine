@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Sec_04Razor_View_Engine.props" />
+</Project>
